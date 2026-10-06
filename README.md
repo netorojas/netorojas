@@ -36,7 +36,7 @@
 
 | Project | What it shows |
 |---|---|
-| [**Orbinoc · Network Ops Console**](https://github.com/netorojas/knoc-network-ops-console) · [live demo](https://netorojas.github.io/knoc-network-ops-console/) | One screen for your whole estate, from one country to the world: global map, topology, multicloud discovery (AWS, Azure, GCP, OCI, IBM, VMware, Proxmox, Kubernetes), telephony and layer-by-layer troubleshooting |
+| [**Orbiscale · Network Ops Console**](https://github.com/netorojas/knoc-network-ops-console) · [live demo](https://netorojas.github.io/knoc-network-ops-console/) | One screen for your whole estate, from one country to the world: global map, topology, multicloud discovery (AWS, Azure, GCP, OCI, IBM, VMware, Proxmox, Kubernetes), telephony and layer-by-layer troubleshooting |
 | [**Infra Backlog**](https://github.com/netorojas/infra-backlog-dashboard) · [live demo](https://netorojas.github.io/infra-backlog-dashboard/) | A self-updating ops dashboard: e-mail, Teams, Daily notes and the ITSM queue go in; a prioritized, evidence-labelled backlog comes out |
 
 > Fictional company (Contoso Global), no customer data. Both run on localhost (`./serve.sh`) or Docker. Open-core: AGPL-3.0 + commercial licence.
