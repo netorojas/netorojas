@@ -1,9 +1,11 @@
+![Ernesto (Neto) Rojas — Senior Infrastructure Engineer](banner.png)
+
 ### Hi, I'm Ernesto (Neto) 👋
 
 **Senior Infrastructure Engineer** in São Paulo. I run network, security and cloud operations for **9 LATAM countries**.
 I like turning messy operations into tools a team actually uses.
 
-🔧 **Fortinet** (FortiGate HA, SD-WAN, FortiSwitch, FortiAP, IPsec/SSL VPN) · **Azure** (Arc, Lighthouse, networking) · **Entra ID / Intune / M365** · **Microsoft Sentinel** · **Teams Direct Routing** (AudioCodes SBC) · **VMware** · **PowerShell / Graph** · **ITSM** (ServiceDesk Plus)
+🔧 **Fortinet** (FortiGate HA, FortiSwitch, FortiAP, IPsec/SSL VPN) · **Azure** (Arc, Lighthouse, networking) · **Entra ID / Intune / M365** · **Microsoft Sentinel** · **Teams Direct Routing** (AudioCodes SBC) · **VMware** · **PowerShell / Graph** · **ITSM** (ServiceDesk Plus)
 
 ---
 
@@ -24,4 +26,4 @@ I like turning messy operations into tools a team actually uses.
 #### 🌎 Languages
 Portuguese (native) · Spanish (fluent) · English (professional)
 
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+📫 [LinkedIn](https://www.linkedin.com/in/netorojas/)
