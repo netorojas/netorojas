@@ -2,9 +2,33 @@
 
 ### Hi, I'm Ernesto (Neto) 👋
 
-**Infrastructure, Cloud & Security engineer** in São Paulo. I have run network, security and cloud operations across 9 countries, and I build the tools that make that work at any scale.
+**Independent Infrastructure, Cloud & Security consultant** in São Paulo, open to roles and projects.
+8+ years in IT. In my last engagement I was the infrastructure reference for **9 countries** (Latin America + Canada) in a SOX/GxP-regulated pharma environment.
 
-🔧 **Fortinet** (FortiGate HA, FortiSwitch, FortiAP, IPsec/SSL VPN) · **Azure** (Arc, Lighthouse, networking) · **Entra ID / Intune / M365** · **Microsoft Sentinel** · **Teams Direct Routing** (AudioCodes SBC) · **VMware** · **PowerShell / Graph** · **ITSM** (ServiceDesk Plus)
+🔧 **Network & security:** Fortinet (FortiGate HA, FortiSwitch, FortiAP, SSL/IPsec VPN), SonicWall, pfSense
+☁️ **Cloud & identity:** Azure (Arc), Entra ID, Active Directory, Conditional Access, AWS, IBM Cloud
+🛡️ **Security operations:** Microsoft Sentinel (AMA/DCR), Defender for Cloud Apps, WDAC, SOX access reviews
+💻 **Endpoint & collaboration:** Intune, Autopilot, Microsoft 365, Teams Direct Routing (AudioCodes SBC)
+🖥️ **Servers:** VMware ESXi, Hyper-V, Citrix, Windows Server, Linux, Veeam, RecoverPoint
+⚙️ **Automation & ops:** PowerShell, Microsoft Graph, Python, Bash, Azure DevOps, Git · Zabbix, PRTG, ServiceDesk Plus, ITIL
+
+---
+
+#### 🏅 Certifications
+
+| Vendor | Certification | Year |
+|---|---|---|
+| IBM | Certified Advanced Architect – Cloud v2 | 2024 |
+| IBM | Certified Professional Architect v6 | 2024 |
+| IBM | Certified Professional SRE – Cloud v2 | 2024 |
+| IBM | Certified Associate SRE – Cloud v2 | 2024 |
+| IBM | Certified Professional Developer v6 | 2024 |
+| IBM | Cloud for SAP Essentials | 2024 |
+| IBM | Certified Technical Advocate – Cloud v4 | 2023 |
+| Cisco | CCNA | 2020 |
+| Cisco | CyberOps Associate | 2020 |
+| Cisco | Network Defense | 2025 |
+| Docker | DevOps – Docker | 2023 |
 
 ---
 
@@ -17,12 +41,20 @@
 
 > Fictional company (Contoso Global), no customer data. Both run on localhost (`./serve.sh`) or Docker. Open-core: AGPL-3.0 + commercial licence.
 
+#### 🤝 How I can help
+- Fortinet design, hardening and VPN/SD-WAN troubleshooting
+- Azure, Entra ID and Intune security baselines
+- Onboarding to Microsoft Sentinel (Azure Arc, AMA/DCR, collectors)
+- Infrastructure documentation, inventories and PowerShell automation
+
 #### 🧭 How I work
 - **Evidence before opinion**: every claim is labelled FACT, PROBABLE or HYPOTHESIS.
 - **Read-only first, least privilege always**, with a rollback written before any change.
 - **Document and version everything** (Git, Conventional Commits).
 
 #### 🌎 Languages
-Portuguese (native) · Spanish (fluent) · English (professional)
+Portuguese (native) · Spanish (full professional) · English (working, improving)
 
 📫 [LinkedIn](https://www.linkedin.com/in/netorojas/)
+
+<!-- psst: there is a secret in each live demo. Try the arrow keys. -->
